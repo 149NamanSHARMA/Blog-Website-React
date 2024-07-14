@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules/
+
+# Logs
+**/logs
+**/*.log
+npm-debug.log*
+
+# Environment variables
+**/.env
+
+# OS files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build output
+/frontend/build

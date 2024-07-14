@@ -1,0 +1,19 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Lobster', cursive;
+  background: url('../public/flower-laptop.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #333; /* Adjust text color for better contrast */
+}
+
+h1 {
+  color: #fff; /* White text color for the main title */
+}
+
+.bg-white {
+  background-color: rgba(255, 255, 255, 0.9);
+}
